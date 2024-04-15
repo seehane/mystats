@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/prkltos/mystats/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com//prkltos/mystats/master/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/prkltos/mystats/master/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com//prkltos/mystats/master/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/prkltos/mystats/master/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/prkltos/mystats/master/github-profile-summary-cards)
 
